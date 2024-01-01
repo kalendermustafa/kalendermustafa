@@ -1,16 +1,18 @@
-### Hi there 👋
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Mustafa%20KALENDER&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
 
-<!--
-**kalendermustafa/kalendermustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ben Kimim?
+Eskişehir Osmangazi Üniversitesi Makine Mühendisliği öğrencisiyim. 
+
+YetGen Platformunda Liderlik yapmaktayım. 
+
+🔭 I’m currently working on Python Projects 
+
+🌱 I’m currently learning Python
+
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klndr)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](instagram.com/kalendermustafa_/)
