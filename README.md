@@ -7,8 +7,6 @@
 Ben Kimim?
 Eskişehir Osmangazi Üniversitesi Makine Mühendisliği öğrencisiyim. 
 
-YetGen Platformunda Liderlik yapmaktayım. 
-
 🔭 I’m currently working on Python Projects 
 
 🌱 I’m currently learning Python
